@@ -1,0 +1,10 @@
+{
+  "_comment" : "bb-size is the buffer size for tesseract links to analyse",
+  "threads" : 1,
+  "bb_size" : 2,
+  "init_link" : "https://prnt.sc/1uwluva",
+  "url_form" : "https://prnt.sc/",
+  "code_digit_num" : 7,
+  "digit_max_range": 35
+
+}
